@@ -4,6 +4,9 @@ h1 {
 
 p, li {
     color: green;
+}
+
+li {
     list-style-type: none;
 }
 
