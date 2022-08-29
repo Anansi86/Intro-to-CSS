@@ -27,3 +27,15 @@ h1 + p {
 p .special {
     color: red;
 }
+
+a:link {
+    color: pink;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: none;
+}
