@@ -15,3 +15,7 @@ span.special {
     color: orange;
     font-weight: bold;
 }
+
+li em {
+    color: rebeccapurple;
+}
