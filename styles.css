@@ -37,5 +37,11 @@ a:visited {
 }
 
 a:hover {
-    color: none;
+    text-decoration: none;
+}
+
+body h1 + p .special {
+    color: yellow;
+    background-color: black;
+    padding: 5px;
 }
